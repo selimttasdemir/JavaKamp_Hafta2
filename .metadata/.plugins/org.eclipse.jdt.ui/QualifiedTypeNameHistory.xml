@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="Product"/>
+    <fullyQualifiedTypeName name="Oop1.Product"/>
+    <fullyQualifiedTypeName name="Oop1.IndividualCustomer"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="Oop1.CorporateCustomer"/>
+    <fullyQualifiedTypeName name="Oop1.Customer"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>
